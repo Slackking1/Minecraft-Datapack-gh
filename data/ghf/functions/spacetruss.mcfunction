@@ -9791,4 +9791,3 @@ setblock ~75 ~21 ~150 tnt
 setblock ~75 ~22 ~150 tnt
 setblock ~75 ~23 ~150 tnt
 setblock ~75 ~24 ~150 tnt
-setblock ~75 ~25 ~150 tnt

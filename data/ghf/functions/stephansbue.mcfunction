@@ -47444,4 +47444,3 @@ setblock ~200.0 ~10.85 ~40 stone
 setblock ~200.0 ~11.35 ~40 stone
 setblock ~200.0 ~11.85 ~40 stone
 setblock ~200.0 ~12.35 ~40 stone
-setblock ~200.0 ~12.85 ~40 stone

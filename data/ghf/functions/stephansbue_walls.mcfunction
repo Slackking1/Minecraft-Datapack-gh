@@ -29698,4 +29698,3 @@ setblock ~250 ~-3 ~1.0 nether_bricks
 setblock ~250 ~-2 ~1.0 nether_bricks
 setblock ~250 ~-1 ~1.0 nether_bricks
 setblock ~250 ~0 ~1.0 nether_bricks
-setblock ~ ~ ~ stone

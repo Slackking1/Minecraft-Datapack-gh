@@ -14823,4 +14823,3 @@ setblock ~21.997629 ~0.003644 ~0.039572 stone_slab
 setblock ~21.497629 ~0.003644 ~0.038672 stone_slab
 setblock ~20.99763 ~0.003644 ~0.037773 stone_slab
 setblock ~20.497631 ~0.003644 ~0.036873 stone_slab
-setblock ~19.997632 ~0.003644 ~0.035974 stone_slab

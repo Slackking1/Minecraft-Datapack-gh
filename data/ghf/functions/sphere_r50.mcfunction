@@ -42094,4 +42094,3 @@ setblock ~48 ~100 ~43 stone
 setblock ~49 ~100 ~43 stone
 setblock ~52 ~100 ~43 stone
 setblock ~53 ~100 ~43 stone
-setblock ~57 ~100 ~47 stone

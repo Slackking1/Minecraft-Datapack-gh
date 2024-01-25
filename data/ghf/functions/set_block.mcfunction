@@ -15203,4 +15203,3 @@ setblock ~25 ~60 ~27 stone
 setblock ~26 ~60 ~26 stone
 setblock ~27 ~60 ~25 stone
 setblock ~31 ~60 ~25 stone
-setblock ~35 ~60 ~27 stone

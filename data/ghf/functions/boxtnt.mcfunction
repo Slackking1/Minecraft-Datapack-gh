@@ -14996,4 +14996,3 @@ setblock ~10 ~49 ~50 tnt
 setblock ~5 ~49 ~50 tnt
 setblock ~0 ~49 ~10 tnt
 setblock ~0 ~49 ~5 tnt
-setblock ~0 ~50 ~0 tnt
